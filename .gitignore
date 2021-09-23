@@ -1,0 +1,5 @@
+# Excluded files
+
+.DS_Store
+part_of_the_matrix
+obj
